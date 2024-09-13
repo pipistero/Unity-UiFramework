@@ -1,0 +1,26 @@
+{
+    "name": "PS.UiFramework.Example",
+    "rootNamespace": "",
+    "references": [
+        "PS.UiFramework",
+        "Zenject",
+        "UniTask",
+        "R3.Unity",
+        "UniTask.DOTween",
+        "DOTween.Modules",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "DOTween.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

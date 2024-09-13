@@ -1,0 +1,26 @@
+{
+    "name": "PS.UiFramework",
+    "rootNamespace": "",
+    "references": [
+        "DOTween.Modules",
+        "Zenject",
+        "UniTask",
+        "UniTask.DOTween",
+        "PS.CustomLogger",
+        "PS.PrefabFactory",
+        "R3.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll",
+        "Zenject-usage.dll",
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
